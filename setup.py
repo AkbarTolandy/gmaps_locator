@@ -22,7 +22,6 @@ setup(name="gmaps-locator",
       packages=find_packages(),
       install_requires=['requests-html'],
       keywords=['python', 'gmaps', 'geocode'],
-      Homepage="https://github.com/AkbarTolandy/gmaps_locator.git",
       classifiers=[
           "Development Status :: 4 - Beta",
           "Intended Audience :: Developers",
