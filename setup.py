@@ -23,7 +23,7 @@ setup(name="gmaps-locator",
       install_requires=['requests-html'],
       keywords=['python', 'gmaps', 'geocode'],
       classifiers=[
-          "Development Status :: 1 - Beta",
+          "Development Status :: 4 - Beta",
           "Intended Audience :: Developers",
           "Programming Language :: Python :: 3",
           "Operating System :: Unix",
